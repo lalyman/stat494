@@ -9,8 +9,8 @@
     * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted on both sites
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. However, I will try to keep Canvas updated as well. 
-    
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 19 September 2021, 11:49 PM PT.
+
 ## Contact
 
 * Primary Instructor: Laura Lyman (pronouns: she/her/hers)
