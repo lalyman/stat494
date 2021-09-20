@@ -15,7 +15,7 @@ With high probability, this `README.md` file represents the most updated version
 
 * Primary Instructor: Laura Lyman (pronouns: she/her/hers)
 * Email: `lymanla@stanford.edu`
-* Office Hours: TBD (waiting on a room assignment)
+* **Office Hours**: Tu/W from 5:00 - 6:30 PM in <a href = "https://campus-map.stanford.edu/?id=04-060&lat=37.4289861377&lng=-122.175177853&zoom=16&srch=Shriram%20Center%20For%20Bioengineering%20">Shriram</a> SB35 from 9/21 onward
 
 ## Introduction
 
