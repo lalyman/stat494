@@ -286,8 +286,8 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <th>Date</th>
             <th>Day of Week</th>
             <th>Topics</th>
-            <th>Key Examples </th>
-            <th>Relevant Reading </th>
+            <th>Key <br> Examples </th>
+            <th>Relevant <br> Reading </th>
             <th>Deadlines & Logistics</th>
         </tr>
     </thead>
@@ -296,8 +296,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>1</td>
             <td>09/21</td>
             <td>Tue</td>
-            <td> Introduction and course logistics; overview of the 3 pillars of UQ: 
-            (1) sampling, (2) quadrature/collocation, and (3) spectral methods; aleatory vs epistemic uncertainty;  intrusive vs unintrustive methods; validation vs verification; elements of probability theory</td>
+            <td> Introduction and course logistics; overview of the 3 pillars of UQ: (1) sampling, (2) quadrature + collocation, and (3) spectral methods; aleatory vs epistemic uncertainty; validation vs verification; elements of probability theory (time permitting)</td>
             <td> <ul>
                  <li> Hurricane path prediction</li>
                  <li> Subsurface geology (water contamination; oil reservoir extraction) </li>
@@ -339,7 +338,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
         <tr>
             <td>09/30</td>
             <td>Thu</td>
-            <td> Quadrature and stochastic collocation; theory of orthogonal polynomials </td>
+            <td> Quadrature and stochastic collocation; theory of orthogonal polynomials; intrusive vs unintrustive methods </td>
             <td>  </td>
             <td> <ul>
                  <li> <a href = "#col-surv">SCM</a> 
@@ -497,7 +496,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td>Thu</td>
             <td>Topics in polynomial chaos: handling correlated inputs </td>
             <td> Manufacturing processes </td>
-            <td> Rahman's paper </td>
+           <td> <a href="#rahman">RAH</a> </td>
             <td>  </td>
         </tr>
         <tr>
@@ -556,7 +555,7 @@ The notes from class should technically be sufficient for all assignments. That 
 
 9.  <span id="pro-therapy"></span>[[PCPT]](https://d1rkab7tlqy5f1.cloudfront.net/TNW/Afdelingen/Radiation%20Science%20and%20Technology/Research%20Groups/RPNM/Publications/MSc_Sebastian_van_der_Voort.pdf) S. van der Voort, "Application of Polynomial Chaos in Proton Therapy: Dose Distributions, Treatment Parameters, Robustness Recipes & Treatment Planning."  Master thesis, Delft University of Technology (TU Delft), June 2015
 
-10. [[RAH]](https://doi.org/10.1016/j.jmaa.2017.04.062) S. Rahman, "Wiener-Hermite polynomial expansion for multivariate Gaussian probability measures." Journal of Mathematical Analysis and Applications (2017)
+10.   <span id="rahman"></span>[[RAH]](https://doi.org/10.1016/j.jmaa.2017.04.062) S. Rahman, "Wiener-Hermite polynomial expansion for multivariate Gaussian probability measures." Journal of Mathematical Analysis and Applications (2017)
 
 11. <span id="col-surv"></span>[[SCM]](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-11259-6_26-1) D. Xiu, "Stochastic Collocation Methods: A Survey." Handbook of Uncertainty Quantification, Springer (2015).
 
