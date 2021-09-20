@@ -1,7 +1,7 @@
 # Advances in Computing with Uncertainties
 
 * CME 270, Fall Quarter, 2021
-* Meeting Time: T/Th 10:30 - 11:50 AM
+* Meeting Time: T/Th 11:30 AM - 1:00 PM
 * Location: [Hewlett](https://campus-map.stanford.edu/?id=04-510&lat=37.42900001&lng=-122.17285486&zoom=17&srch=hewlett) 103
 * Course websites
     * (So meta) Github repository ([github.com/lalyman/cme-270/](https://github.com/lalyman/cme-270/))
