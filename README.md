@@ -384,7 +384,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td> KL expansion; Mercer's theorem</td>
             <td>  </td>
             <td><ul>
-                <li> <a href= "https://www.chebfun.org/examples/stats/MercerKarhunenLoeve.html">Cheb Fun page</a></li></ul>   </td>
+                <li> TBD </li></ul>   </td>
             <td>  </td>
         </tr>
         <tr>
