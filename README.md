@@ -218,7 +218,7 @@ If you are in danger of not meeting the 'C' requirement, and you are taking this
 There will be a student-initiated final project; you will pose a problem you would like to solve, describe your approach, and summarize your findings. The topic can be drawn from any area (ideally your research), but must involve some concept discussed in class. Projects will be carried out individually; if you are working with other students on the same research project, you must either choose different topics, or split the project into different components. The Project Report itself is intended to involve an amount of work comparable to a single homework assignment; however, there are additional components around the project (Peer Review and Presentation). Accordingly, the deliverables for the project are spread over the latter half of the course.
 </p>
 
-#### Proposal<span id="prop"></span> 
+### Proposal<span id="prop"></span> 
 By the midpoint of the class, you will submit a one page Proposal for your project. In this assignment, you must:
 
    * describe the problem you aim to solve,
@@ -227,7 +227,7 @@ By the midpoint of the class, you will submit a one page Proposal for your proje
 
 The purpose of this assignment is to ensure you are on track to deliver a compelling project at the end of the course.
 
-#### Draft<span id="draft-tag"></span> 
+### Draft<span id="draft-tag"></span> 
 <p align=justify>
   In week 8, you will submit a draft for your project. This will be used for a Peer Review exercise, in which you will review two other students’ draft work. This will primarily be an exercise in providing useful commentary on other researchers work, which is a critical component of the academic safari. For the draft, you must:
 </p>
@@ -237,7 +237,7 @@ The purpose of this assignment is to ensure you are on track to deliver a compel
    * describe your (preliminary) results, and
    * note what you plan to do for the final submission.
     
-#### Peer Review<span id="pr"></span>
+### Peer Review<span id="pr"></span>
 
 For the Peer Review, you must:
 
@@ -247,7 +247,7 @@ For the Peer Review, you must:
       * from a technical/methodological perspective, and
    * provide recommendations on how to improve the work.
     
-#### Final Presentation
+### Final Presentation
 <p align=justify>
 The final days of the class will be reserved for student Final Presentations. These will (ideally) be 15 minute talks, though depending on enrollment we may need to adjust this amount of time. The purpose of presentations is to:
 </p>
@@ -256,7 +256,7 @@ The final days of the class will be reserved for student Final Presentations. Th
    * introduce the class to the variety of UQ problems, and 
    * reflect on if/how the project addressed your original learning goals.
 
-#### Report<span id="rep"></span>
+### Report<span id="rep"></span>
 The final Report will be due during finals period. For the Report, you must:
 
    * describe your problem,
