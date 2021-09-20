@@ -9,7 +9,7 @@
     * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted on both sites
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 20 September 2021, 12:03 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 20 September 2021, 12:18 PM PT.
 
 ## Contact
 
@@ -525,6 +525,24 @@ To give you a glimpse into research applications, and to keep the lectures fun a
         </tr>
     </tbody>
 </table>
+</p>
+
+## University Policies
+
+### The Honor Code
+
+<p align="justify">
+It is expected that instructors and students will follow Stanford’s Honor Code in all matters relating to this course. You are encouraged to meet and exchange ideas with your classmates while studying and working on homework assignments, but you are individually responsible for your own work and for understanding the material. You are not permitted to copy or otherwise reference another student’s homework or computer code. If you have any questions regarding this policy, feel free to contact me.
+</p>
+
+<p align="justify">
+Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, disciplinary probation, suspension from the university, or dismissal from the university. Students are responsible for understanding the University’s Honor Code policy and must make proper use of citations of sources for writing papers, creating, presenting, and performing their work, taking examinations, and doing research.
+</p>
+
+### Academic Accommodation
+
+<p align="justify">
+Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (<a href="mailto: oae@stanford.edu">oae@stanford.edu</a>). 
 </p>
 
 ## References
