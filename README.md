@@ -4,12 +4,12 @@
 * Meeting Time: T/Th 11:30 AM - 1:00 PM
 * Location: [Hewlett](https://campus-map.stanford.edu/?id=04-510&lat=37.42900001&lng=-122.17285486&zoom=17&srch=hewlett) 103
 * Course websites
-    * (So meta) Github repository ([github.com/lalyman/cme-270/](https://github.com/lalyman/cme-270/))
+    * (So meta) Github repository: [github.com/lalyman/cme-270/](https://github.com/lalyman/cme-270/)
     * [Canvas](https://canvas.stanford.edu/courses/144967) site
     * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted on both sites
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 19 September 2021, 11:49 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 20 September 2021, 10:58 AM PT.
 
 ## Contact
 
