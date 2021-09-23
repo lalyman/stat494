@@ -310,7 +310,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             </td>
             <td> <ul>
                  <li> <b>Intake quiz</b> (regardless of whether you drop the class)</li>
-                 <li> <b>Sign up</b> for 15 min. <a href="https://forms.gle/AqxVjJuTkmsP9tXB9">one-on-one</a> with Laura. I'm excited to meet you!
+                 <li> <b>Sign up</b> for a 15 min. <a href="https://forms.gle/AqxVjJuTkmsP9tXB9">one-on-one</a> with Laura. I'm excited to meet you!
                  </ul>
           </td>
         </tr>
