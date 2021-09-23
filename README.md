@@ -87,7 +87,7 @@ Our goal as a classroom community should be to build an environment in which eve
 ### One-on-ones
 
 <p align=justify>
-Within the first few weeks of the quarter, I will schedule a one-on-one meetings (15-20 minutes) with each of you. These are meant to be informal. The goal of these meetings is for me to: (1) get to know you, (2) hear about your background, (3) listen to what you are hoping to get from this class, (4) understand your time constraints for the quarter, and (5) provide space for you to voice questions, concerns, or anything you'd like to talk through. You can sign up for a meeting time slot <a href="https://forms.gle/jG1vueQPNqzSei9A7">here</a>. 
+Within the first few weeks of the quarter, I will schedule one-on-one meetings (15-20 minutes) with each of you. These are meant to be informal. The goal of these meetings is for me to: (1) get to know you, (2) hear about your background, (3) listen to what you are hoping to get from this class, (4) understand your time constraints for the quarter, and (5) provide space for you to voice questions, concerns, or anything you'd like to talk through. You can sign up for a meeting time slot <a href="https://forms.gle/jG1vueQPNqzSei9A7">here</a>. 
 </p>
 
 ## Grading
