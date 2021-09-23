@@ -9,7 +9,7 @@
     * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted on both sites
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 22 September 2021, 4:53 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 22 September 2021, 7:43 PM PT.
 
 ## Contact
 
@@ -87,7 +87,7 @@ Our goal as a classroom community should be to build an environment in which eve
 ### One-on-ones
 
 <p align=justify>
-Within the first few weeks of the quarter, I will schedule a one-on-one meetings (15-20 minutes) with each of you. These are meant to be informal. The goal of these meetings is for me to: (1) get to know you, (2) hear about your background, (3) listen to what you are hoping to get from this class, (4) understand your time constraints for the quarter, and (5) provide space for you to voice questions, concerns, or anything you'd like to talk through.
+Within the first few weeks of the quarter, I will schedule a one-on-one meetings (15-20 minutes) with each of you. These are meant to be informal. The goal of these meetings is for me to: (1) get to know you, (2) hear about your background, (3) listen to what you are hoping to get from this class, (4) understand your time constraints for the quarter, and (5) provide space for you to voice questions, concerns, or anything you'd like to talk through. You can sign up for a meeting time slot <a href="https://forms.gle/jG1vueQPNqzSei9A7">here</a>. 
 </p>
 
 ## Grading
@@ -500,7 +500,10 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td>Thu</td>
             <td>Topics in polynomial chaos: handling correlated inputs </td>
             <td> Manufacturing processes </td>
-           <td> <a href="#rahman">RAH</a> </td>
+           <td> <ul>
+                <li> Research paper <a href="#rahman">RAH</a> </li>
+                </ul>
+            </td>
             <td>  </td>
         </tr>
         <tr>
