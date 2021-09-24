@@ -9,7 +9,7 @@
     * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted on both sites
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 22 September 2021, 11:24 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 24 September 2021, 07:59 AM PT.
 
 ## Contact
 
@@ -305,22 +305,25 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             </td>
             <td> <ul>
                  <li> <a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/CME270Day1Slides.pdf">Day 1 notes</a> </li>
-                 <li> Chapter 1 of <a href="#smith-book">UQTIA</a> </li>
+                 <li> Chapters 1-2 of <a href="#smith-book">UQTIA</a> </li>
                  <ul>
             </td>
             <td> <ul>
-                 <li> <b>Intake quiz</b> (regardless of whether you drop the class)</li>
-                 <li> <b>Sign up</b> for a 15 min. <a href="https://forms.gle/AqxVjJuTkmsP9tXB9">one-on-one</a> with Laura. I'm excited to meet you!
+            <li> <b>Sign up</b> for a 15 min. <a href="https://forms.gle/AqxVjJuTkmsP9tXB9">one-on-one</a> with Laura. I'm excited to meet you! </li>
                  </ul>
           </td>
         </tr>
         <tr>
             <td>09/23</td>
             <td>Thu</td>
-            <td>Probability background: random variables, random vectors, stochastic processes, random fields and their representation; Bayesian vs. frequentist paradigm; review of sampling methods (Monte Carlo, Latin Hypercube, etc.) </td>
+            <td>Introduction to Monte Carlo; Nagel-Shreckenberg traffic modeling; introduction to spectral methods
+            </td>
             <td>  </td>
             <td>  </td>
-            <td> HW 1 released</td>
+            <td> <ul>
+                 <li> HW 1 release <b> TBD </b> </li>
+                 </ul>
+            </td>
         </tr>
         <tr>
             <td rowspan=2>2</td>
@@ -374,7 +377,6 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             </td>
             <td>
             <ul>
-            <li>HW 1 <b>due</b> </li>
             <li>HW 2 released</li>
             <li> <b>Final Study List deadline</b> on Friday (10/08) </li>
             </ul> 
