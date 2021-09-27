@@ -90,6 +90,15 @@ Our goal as a classroom community should be to build an environment in which eve
 Within the first few weeks of the quarter, I will schedule one-on-one meetings (15-20 minutes) with each of you. These are meant to be informal. The goal of these meetings is for me to: (1) get to know you, (2) hear about your background, (3) listen to what you are hoping to get from this class, (4) understand your time constraints for the quarter, and (5) provide space for you to voice questions, concerns, or anything you'd like to talk through. You can sign up for a meeting time slot <a href="https://forms.gle/jG1vueQPNqzSei9A7">here</a>. 
 </p>
 
+### Anonymous feedback
+
+<p align=justify>
+Open and honest communication are the bedrock of a successful classrom experience. While I hope to be as accessible and non-intimidating as possible, I understand that voicing concerns in person to your instructor can be difficult. That difficulty provides <i>just</i> enough friction for students to stay quiet instead of expressing what they need. Weekly quizzes/surveys will be made available for you to provide direct feedback anonymously.
+</p>
+
+<p align=justify>
+Of course, completing these surveys is <i>not</i> required; they are merely provided as an additional resource. You can fill out as much or as little of a survey as you deem fit. All that being said, the feedback will help me improve your course experience.
+</p>
 
 ## Grading
 
@@ -320,7 +329,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td>Introduction to Monte Carlo; introduction to spectral methods
             </td>
             <td> <ul>
-                 <li> Nagel-Shreckenberg traffic modeling </li>
+                     <li> Nagel-Shreckenberg traffic modeling </li>
                  </ul>
             </td>
             <td> <ul>
