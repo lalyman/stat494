@@ -9,7 +9,7 @@
     * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted on both sites
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 24 September 2021, 07:59 AM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 27 September 2021, 04:10 PM PT.
 
 ## Contact
 
@@ -89,6 +89,7 @@ Our goal as a classroom community should be to build an environment in which eve
 <p align=justify>
 Within the first few weeks of the quarter, I will schedule one-on-one meetings (15-20 minutes) with each of you. These are meant to be informal. The goal of these meetings is for me to: (1) get to know you, (2) hear about your background, (3) listen to what you are hoping to get from this class, (4) understand your time constraints for the quarter, and (5) provide space for you to voice questions, concerns, or anything you'd like to talk through. You can sign up for a meeting time slot <a href="https://forms.gle/jG1vueQPNqzSei9A7">here</a>. 
 </p>
+
 
 ## Grading
 
@@ -319,9 +320,13 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td>Introduction to Monte Carlo; Nagel-Shreckenberg traffic modeling; introduction to spectral methods
             </td>
             <td>  </td>
-            <td>  </td>
+            <td> <ul>
+                    <li>Chapters 1 - 2 of <a href="#owen-mc">MC</a></li>
+                 </ul>
+            </td>
             <td> <ul>
                  <li> HW 1 release <b> TBD </b> </li>
+                 <li> Week 1 <b>anonymous feedback</b> <a href="https://forms.gle/dgRDXWc9Qptyirjz5">link</a></li>
                  </ul>
             </td>
         </tr>
@@ -556,36 +561,46 @@ Students who may need an academic accommodation based on the impact of a disabil
 
 ## References
 
+<p align="justify">
 The notes from class should technically be sufficient for all assignments. That being said, there are several excellent references from which to choose. The lecture schedule indicates which sections of textbooks and papers correspond to particular classes. You do not need to read all of these references; they are simply provided as additional resources to help you on all fronts. Items marked with a star  &#10026; are personal favorites.
+</p>
 
+<p align="justify">
+Identifiers appear in brackets below, and each one links to an online version of the text. If you cannot access a free version of any resource, please reach out to me directly.
+</p>
 
 ### Texts
+
+
  
 1. [[NMSC]](https://www.jstor.org/stable/j.ctv7h0skv) D. Xiu, <i>Numerical Methods for Stochastic Computations: A Spectral Method Approach</i>. Princeton University Press (2010)
 
-2. <span id="gi-book"></span>[[PCM]](https://www.springer.com/gp/book/9783319107134) M.P. Petterson, G. Iaccarino, and J. Nordstrom, <i>Polynomial Chaos Methods for Hyperbolic Partial Differential Equations</i>. Springer series on Mathematical Engineering (2015)
+2. <span id="owen-mc"></span>[[MC]](https://statweb.stanford.edu/~owen/mc/)  &#10026; A. B. Owen, <i> Monte Carlo Theory, Methods, and Examples.</i> Copyright Art Owen. (2013)
 
-3. [[SFS]](https://link.springer.com/book/10.1007%2F978-1-4612-3094-6) R. G. Ghanem and P. D. Spanos, <i>Stochastic Finite Elements: A Spectral Approach.</i> Springer (1991)
 
-4. [[SMUQ]](https://www.springer.com/gp/book/9789048135196) &#10026; Le Maitre and O. M. Knio, <i>Spectral Methods for Uncertainty Quantification with Applications to Computational Fluid Dynamics.</i> Springer (2010)
+3. <span id="gi-book"></span>[[PCM]](https://www.springer.com/gp/book/9783319107134) M.P. Petterson, G. Iaccarino, and J. Nordstrom, <i>Polynomial Chaos Methods for Hyperbolic Partial Differential Equations</i>. Springer series on Mathematical Engineering (2015)
 
-5. [[TJSUL]](https://link-springer-com.stanford.idm.oclc.org/book/10.1007/978-3-319-23395-6)  &#10026;  T.J. Sullivan, <i>Introduction to Uncertainty Quantification</i>. Texts in Applied Mathematics (TAM) Springer series, vol. 63 (2015)
+4. [[SFS]](https://link.springer.com/book/10.1007%2F978-1-4612-3094-6) R. G. Ghanem and P. D. Spanos, <i>Stochastic Finite Elements: A Spectral Approach.</i> Springer (1991)
 
-6. <span id="smith-book"></span>[[UQTIA]](https://my.siam.org/Store/Product/viewproduct/?ProductId=24973024)  &#10026; R.C. Smith, <i>Uncertainty Quantification: Theory, Implementation, and Applications</i>. SIAM series on Computational Science and Engineering (2013)
+5. [[SMUQ]](https://www.springer.com/gp/book/9789048135196) &#10026; Le Maitre and O. M. Knio, <i>Spectral Methods for Uncertainty Quantification with Applications to Computational Fluid Dynamics.</i> Springer (2010)
+
+6. [[TJSUL]](https://link-springer-com.stanford.idm.oclc.org/book/10.1007/978-3-319-23395-6)  &#10026;  T.J. Sullivan, <i>Introduction to Uncertainty Quantification</i>. Texts in Applied Mathematics (TAM) Springer series, vol. 63 (2015)
+
+7. <span id="smith-book"></span>[[UQTIA]](https://my.siam.org/Store/Product/viewproduct/?ProductId=24973024)  &#10026; R.C. Smith, <i>Uncertainty Quantification: Theory, Implementation, and Applications</i>. SIAM series on Computational Science and Engineering (2013)
 
 
 ### Papers and Theses 
  
-7. [[CON]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.728.2155&rep=rep1&type=pdf) P. Constantine, "Spectral Methods for Parametrized Matrix Equations." PhD thesis, Stanford University, August 2009.
+8. [[CON]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.728.2155&rep=rep1&type=pdf) P. Constantine, "Spectral Methods for Parametrized Matrix Equations." PhD thesis, Stanford University, August 2009.
 
-8. [[gPcCON]](https://doi.org/10.1051/m2an/2011045) O.G. Ernst, A. Mugler, H.J. Starkloff, and E. Ullman, "On the Convergence of Generalized Polynomial Chaos Expansions." ESAIM: Mathematical Modelling and Numerical Analysis (2011)
+9. [[gPcCON]](https://doi.org/10.1051/m2an/2011045) O.G. Ernst, A. Mugler, H.J. Starkloff, and E. Ullman, "On the Convergence of Generalized Polynomial Chaos Expansions." ESAIM: Mathematical Modelling and Numerical Analysis (2011)
 
-9.  <span id="pro-therapy"></span>[[PCPT]](https://d1rkab7tlqy5f1.cloudfront.net/TNW/Afdelingen/Radiation%20Science%20and%20Technology/Research%20Groups/RPNM/Publications/MSc_Sebastian_van_der_Voort.pdf) S. van der Voort, "Application of Polynomial Chaos in Proton Therapy: Dose Distributions, Treatment Parameters, Robustness Recipes & Treatment Planning."  Master thesis, Delft University of Technology (TU Delft), June 2015
+10.  <span id="pro-therapy"></span>[[PCPT]](https://d1rkab7tlqy5f1.cloudfront.net/TNW/Afdelingen/Radiation%20Science%20and%20Technology/Research%20Groups/RPNM/Publications/MSc_Sebastian_van_der_Voort.pdf) S. van der Voort, "Application of Polynomial Chaos in Proton Therapy: Dose Distributions, Treatment Parameters, Robustness Recipes & Treatment Planning."  Master thesis, Delft University of Technology (TU Delft), June 2015
 
-10.   <span id="rahman"></span>[[RAH]](https://doi.org/10.1016/j.jmaa.2017.04.062) S. Rahman, "Wiener-Hermite polynomial expansion for multivariate Gaussian probability measures." Journal of Mathematical Analysis and Applications (2017)
+11.   <span id="rahman"></span>[[RAH]](https://doi.org/10.1016/j.jmaa.2017.04.062) S. Rahman, "Wiener-Hermite polynomial expansion for multivariate Gaussian probability measures." Journal of Mathematical Analysis and Applications (2017)
 
-11. <span id="col-surv"></span>[[SCM]](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-11259-6_26-1) D. Xiu, "Stochastic Collocation Methods: A Survey." Handbook of Uncertainty Quantification, Springer (2015).
+12. <span id="col-surv"></span>[[SCM]](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-11259-6_26-1) D. Xiu, "Stochastic Collocation Methods: A Survey." Handbook of Uncertainty Quantification, Springer (2015).
 
-12. [[UQSDS]](https://publikationen.bibliothek.kit.edu/1000025838/1993392) M. Schick, "Uncertainty Quantification for Stochastic Dynamical Systems: Spectral Methods using Generalized Polynomial Chaos." PhD thesis, Karlsruher Instituts fur Technologie (KIT), 21 December 2011
+13. [[UQSDS]](https://publikationen.bibliothek.kit.edu/1000025838/1993392) M. Schick, "Uncertainty Quantification for Stochastic Dynamical Systems: Spectral Methods using Generalized Polynomial Chaos." PhD thesis, Karlsruher Instituts fur Technologie (KIT), 21 December 2011
 
-13. <span id="xiu-thesis"></span>[[XIU]](https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Dongbin%20Xiu%20Thesis.pdf) D. Xiu, "Generalized (Wiener-Askey) Polynomial Chaos." PhD thesis,  Brown University, 30 May 2004
+14. <span id="xiu-thesis"></span>[[XIU]](https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Dongbin%20Xiu%20Thesis.pdf) D. Xiu, "Generalized (Wiener-Askey) Polynomial Chaos." PhD thesis,  Brown University, 30 May 2004
