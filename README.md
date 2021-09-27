@@ -580,7 +580,7 @@ The notes from class should technically be sufficient for all assignments. That 
 </p>
 
 <p align="justify">
-Identifiers appear in brackets below, and each one links to an online version of the text. If you cannot access a free version of any resource, please reach out to me directly.
+Identifiers appear in brackets below, and each one links to an online version of the text. If you cannot access a free version of a resource, please reach out to me directly.
 </p>
 
 ### Texts
