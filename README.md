@@ -317,11 +317,14 @@ To give you a glimpse into research applications, and to keep the lectures fun a
         <tr>
             <td>09/23</td>
             <td>Thu</td>
-            <td>Introduction to Monte Carlo; Nagel-Shreckenberg traffic modeling; introduction to spectral methods
+            <td>Introduction to Monte Carlo; introduction to spectral methods
             </td>
-            <td>  </td>
             <td> <ul>
-                    <li>Chapters 1 - 2 of <a href="#owen-mc">MC</a></li>
+                 <li> Nagel-Shreckenberg traffic modeling </li>
+                 </ul>
+            </td>
+            <td> <ul>
+                    <li>Chapter 1 of <a href="#owen-mc">MC</a></li>
                  </ul>
             </td>
             <td> <ul>
@@ -334,15 +337,10 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>2</td>
             <td>09/28</td>
             <td>Tue</td>
-           <td> Polynomial chaos and approximation theory; stochastic Galerkin schemes </td>
-            <td> <ul>
-                 <li> Proton thearpy cont. (<a href='#pro-therapy'>PCPT</a>)</li>
-                 <li> Glaciology   </li>
-                 </ul>
-            </td>
+           <td> Monte Carlo continued; stats and probability review</td>
+            <td> </td>
             <td><ul>
-                 <li> Sect. 3.1 of <a href="#gi-book">PCM</a> </li>
-                 <li> Ch. 10 of <a href = "#smith-book">UQTIA</a> </li>
+                 <li>Chapter 2 of <a href="#owen-mc">MC</a></li>
                  </ul>
             </td>
             <td>  </td>
@@ -350,9 +348,16 @@ To give you a glimpse into research applications, and to keep the lectures fun a
         <tr>
             <td>09/30</td>
             <td>Thu</td>
-            <td> Quadrature and stochastic collocation; theory of orthogonal polynomials; intrusive vs unintrustive methods </td>
-            <td>  </td>
+            <td> Polynomial chaos and approximation theory; stochastic Galerkin schemes; quadrature and stochastic collocation; theory of orthogonal polynomials </td>
+            <td>
+                <ul>
+                <li> Proton thearpy cont. (<a href='#pro-therapy'>PCPT</a>)</li>
+                <li> Glaciology   </li>
+                </ul>
+            </td>
             <td> <ul>
+                 <li> Sect. 3.1 of <a href="#gi-book">PCM</a> </li>
+                 <li> Ch. 10 of <a href = "#smith-book">UQTIA</a> </li>
                  <li> <a href = "#col-surv">SCM</a> 
                  <li> Ch. 10 of <a href = "#smith-book">UQTIA</a></li>
                  </ul>
