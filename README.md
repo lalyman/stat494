@@ -606,7 +606,7 @@ Identifiers appear in brackets below, and each one links to an online version of
 
 5. [[SMUQ]](https://www.springer.com/gp/book/9789048135196) &#10026; Le Maitre and O. M. Knio, <i>Spectral Methods for Uncertainty Quantification with Applications to Computational Fluid Dynamics.</i> Springer (2010)
 
-6. [[TJSUL]](https://link-springer-com.stanford.idm.oclc.org/book/10.1007/978-3-319-23395-6)  &#10026;  T.J. Sullivan, <i>Introduction to Uncertainty Quantification</i>. Texts in Applied Mathematics (TAM) Springer series, vol. 63 (2015)
+6. <span id="TJ-sul"></span>[[TJSUL]](https://link-springer-com.stanford.idm.oclc.org/book/10.1007/978-3-319-23395-6)  &#10026;  T.J. Sullivan, <i>Introduction to Uncertainty Quantification</i>. Texts in Applied Mathematics (TAM) Springer series, vol. 63 (2015)
 
 7. <span id="smith-book"></span>[[UQTIA]](https://my.siam.org/Store/Product/viewproduct/?ProductId=24973024)  &#10026; R.C. Smith, <i>Uncertainty Quantification: Theory, Implementation, and Applications</i>. SIAM series on Computational Science and Engineering (2013)
 
