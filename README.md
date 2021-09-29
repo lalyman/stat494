@@ -9,7 +9,7 @@
     * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted on both sites
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 27 September 2021, 04:10 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 28 September 2021, 10:32 PM PT.
 
 ## Contact
 
@@ -346,10 +346,15 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>2</td>
             <td>09/28</td>
             <td>Tue</td>
-           <td> Monte Carlo continued; stats and probability review</td>
-            <td> </td>
+           <td> Monte Carlo continued; stats and probability review; numerical integration with MC</td>
+            <td> <ul> 
+                 <li>Estimating &#960; via MC </li>
+                 <li> Failure of MC given a non-finite mean; how diverging partial sums might look convergent</li>
+                 </ul>
+            </td>
             <td><ul>
                  <li>Chapter 2 of <a href="#owen-mc">MC</a></li>
+                 <li> <a href="./lecture-notes/Lecture3Sept28.pdf">Lecture 3 notes</a></li>
                  </ul>
             </td>
             <td>  </td>
