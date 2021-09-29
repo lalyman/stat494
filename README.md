@@ -9,7 +9,7 @@
     * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted on both sites
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 28 September 2021, 10:32 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 28 September 2021, 10:40 PM PT.
 
 ## Contact
 
@@ -99,6 +99,9 @@ Open and honest communication are the bedrock of a successful classrom experienc
 <p align=justify>
 Of course, completing these surveys is <i>not</i> required; they are merely provided as an additional resource. You can fill out as much or as little of a survey as you deem fit. All that being said, the feedback will help me improve your course experience.
 </p>
+
+* Week 1 (09/20 - 09/24) feedback <a href="https://forms.gle/dgRDXWc9Qptyirjz5">link</a>
+
 
 ## Grading
 
@@ -314,8 +317,8 @@ To give you a glimpse into research applications, and to keep the lectures fun a
                  </ul>  
             </td>
             <td> <ul>
-                 <li> <a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/CME270Day1Slides.pdf">Day 1 notes</a> </li>
                  <li> Chapters 1-2 of <a href="#smith-book">UQTIA</a> </li>
+                 <li> <a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/CME270Day1Slides.pdf">Lecture 1 notes</a> </li>
                  <ul>
             </td>
             <td> <ul>
