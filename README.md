@@ -441,7 +441,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td><b>Guest lecture.</b> Professor Gianluca Iaccarino on optimization in UQ in research applications.</td>
             <td>  </td>
             <td>  </td>
-            <td> </td>
+            <td><ul> <li>HW 1 <b>due</b>   </td>
         </tr>
         <tr>
             <td rowspan=2>6</td>
@@ -466,7 +466,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
                 <li> Sect. 5.1 - 5.3 of <a href="#gi-book">PCM</a></li>
                 </ul>
             </td>
-            <td><ul> <li>HW 1 <b>due</b>  </td>
+            <td></td>
         </tr>
         <tr>
             <td rowspan=2>7</td>
