@@ -396,9 +396,14 @@ To give you a glimpse into research applications, and to keep the lectures fun a
         <tr>
             <td>10/07</td>
             <td>Thu</td>
-            <td> Priors on function spaces; Gaussian processes </td>
+            <td> Quadrature; Priors on function spaces; Gaussian processes </td>
             <td> </td>
             <td> <ul>
+                 <li> <a href="https://gubner.ece.wisc.edu/gaussquad.pdf">https://gubner.ece.wisc.edu/gaussquad.pdf</a></li>
+                 <li> <a href="https://aalexan3.math.ncsu.edu/articles/gauss_quad.pdf">https://aalexan3.math.ncsu.edu/articles/gauss_quad.pdf</a></li>
+                 <li> Sect. 2.2 & 2.9 of <a href="#wilf">WILF</a> </li>
+                 <li> Eigenvector/value part from last lecture: Ch. 8 of <a href="#TJ-sul">TJSUL</a></li>
+                 <li> Ch. 9 of <a href="#TJ-sul">TJSUL</a></li>
                  <li>Provided Jupyter notebook </li>
                  </ul>
             </td>
@@ -609,6 +614,8 @@ Identifiers appear in brackets below, and each one links to an online version of
 6. <span id="TJ-sul"></span>[[TJSUL]](https://link-springer-com.stanford.idm.oclc.org/book/10.1007/978-3-319-23395-6)  &#10026;  T.J. Sullivan, <i>Introduction to Uncertainty Quantification</i>. Texts in Applied Mathematics (TAM) Springer series, vol. 63 (2015)
 
 7. <span id="smith-book"></span>[[UQTIA]](https://my.siam.org/Store/Product/viewproduct/?ProductId=24973024)  &#10026; R.C. Smith, <i>Uncertainty Quantification: Theory, Implementation, and Applications</i>. SIAM series on Computational Science and Engineering (2013)
+
+8.  <span id="wilf"></span>[[WILF]](https://www2.math.upenn.edu/~wilf/website/Mathematics%20for%20the%20Physical%20Sciences.pdf) H. Wilf, <i>Mathematics for the Physical Sciences</i>. Dover Publications (1962)
 
 
 ### Papers and Theses 
