@@ -318,7 +318,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             </td>
             <td> <ul>
                  <li> Chapters 1-2 of <a href="#smith-book">UQTIA</a> </li>
-                 <li> <a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/CME270Day1Slides.pdf">Lecture 1 notes</a> </li>
+                 <li> <a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/lecture1_sept21/CME270Day1Slides.pdf">Lecture 1 notes</a> </li>
                  <ul>
             </td>
             <td> <ul>
@@ -357,7 +357,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             </td>
             <td><ul>
                  <li>Chapter 2 of <a href="#owen-mc">MC</a></li>
-                 <li> <a href="./lecture-notes/Lecture3Sept28.pdf">Lecture 3 notes</a></li>
+                 <li> <a href="./lecture-notes/lecture3_sept28/Lecture3Sept28.pdf">Lecture 3 notes</a></li>
                  </ul>
             </td>
             <td>  </td>
@@ -365,18 +365,11 @@ To give you a glimpse into research applications, and to keep the lectures fun a
         <tr>
             <td>09/30</td>
             <td>Thu</td>
-            <td> Polynomial chaos and approximation theory; stochastic Galerkin schemes; quadrature and stochastic collocation; theory of orthogonal polynomials </td>
+            <td> Sampling methods continued</td>
             <td>
-                <ul>
-                <li> Proton thearpy cont. (<a href='#pro-therapy'>PCPT</a>)</li>
-                <li> Glaciology   </li>
-                </ul>
-            </td>
+           </td>
             <td> <ul>
-                 <li> Sect. 3.1 of <a href="#gi-book">PCM</a> </li>
-                 <li> Ch. 10 of <a href = "#smith-book">UQTIA</a> </li>
-                 <li> <a href = "#col-surv">SCM</a> 
-                 <li> Ch. 10 of <a href = "#smith-book">UQTIA</a></li>
+                 <li> TBA </li>
                  </ul>
             </td>
             <td> </td>
@@ -385,10 +378,11 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>3</td>
             <td>10/05</td>
             <td>Tue</td>
-             <td> Non-intrusive methods: interpolation and integration approaches, spectral projection, stochastic multi-elements</td>
+             <td> Quadrature methods</td>
             <td> </td>
             <td><ul>
-                <li> Sect. 3.2 of <a href="#gi-book">PCM</a></li>
+                 <li> Ch. 8 of <a href="#TJ-sul">TJSUL</a></li>
+                 <li> Sect. 2.2 of <a href="#wilf">WILF</a> </li>
                 </ul>
             </td>
             <td>  </td>
@@ -396,20 +390,19 @@ To give you a glimpse into research applications, and to keep the lectures fun a
         <tr>
             <td>10/07</td>
             <td>Thu</td>
-            <td> Quadrature; Priors on function spaces; Gaussian processes </td>
+            <td> Quadrature methods cont.</td>
             <td> </td>
             <td> <ul>
                  <li> <a href="https://gubner.ece.wisc.edu/gaussquad.pdf">https://gubner.ece.wisc.edu/gaussquad.pdf</a></li>
                  <li> <a href="https://aalexan3.math.ncsu.edu/articles/gauss_quad.pdf">https://aalexan3.math.ncsu.edu/articles/gauss_quad.pdf</a></li>
-                 <li> Sect. 2.2 & 2.9 of <a href="#wilf">WILF</a> </li>
-                 <li> Eigenvector/value part from last lecture: Ch. 8 of <a href="#TJ-sul">TJSUL</a></li>
+                 <li> Sect. 2.9 of <a href="#wilf">WILF</a> </li>
                  <li> Ch. 9 of <a href="#TJ-sul">TJSUL</a></li>
-                 <li>Provided Jupyter notebook </li>
+                 <li><a href="https://github.com/lalyman/cme-270/tree/main/lecture-notes/lecture6_oct7/Lecture6.ipynb">Lecture 6 notes</a> </li>
                  </ul>
             </td>
             <td>
             <ul>
-            <li>HW 2 released</li>
+            <li>HW 1 released</li>
             <li> <b>Final Study List deadline</b> on Friday (10/08) </li>
             </ul> 
             </td>
@@ -418,7 +411,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>4</td>
             <td>10/12</td>
             <td>Tue</td>
-            <td> KL expansion; Mercer's theorem</td>
+            <td>  Priors on function spaces; Gaussian processes; KL expansion; Mercer's theorem</td>
             <td>  </td>
             <td><ul>
                 <li> TBD </li></ul>   </td>
@@ -473,7 +466,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
                 <li> Sect. 5.1 - 5.3 of <a href="#gi-book">PCM</a></li>
                 </ul>
             </td>
-            <td><ul> <li>HW 2 <b>due</b> </li> <li>HW 3 released</li></ul> </td>
+            <td><ul> <li>HW 1 <b>due</b>  </td>
         </tr>
         <tr>
             <td rowspan=2>7</td>
@@ -515,7 +508,6 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td>  </td>
             <td>  </td>
              <td><ul> 
-                 <li> HW 3 <b>due</b> </li>
                  <li> <b>Change of Grading Basis</b> on Friday (11/12)
                  </ul>
              </td>
