@@ -432,7 +432,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>5</td>
             <td>10/19</td>
             <td>Tue</td>
-             <td> Gaussian processes; KL expansion; Mercer's theoremKriging; residual minimizing models; <b>discussion of <a href="#final-p">final project</a></b></td>
+             <td> Gaussian processes; KL expansion; Mercer's theorem; kriging; residual minimizing models; <b>discussion of <a href="#final-p">final project</a></b></td>
             <td>  </td>
             <td></td>
             <td> </td>
