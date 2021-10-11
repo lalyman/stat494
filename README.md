@@ -101,7 +101,7 @@ Of course, completing these surveys is <i>not</i> required; they are merely prov
 </p>
 
 * Week 1 (09/20 - 09/24) feedback <a href="https://forms.gle/dgRDXWc9Qptyirjz5">link</a>
-
+* Week 2 and 3 (09/27 - 10/08) feedback <a href="https://forms.gle/v1LWXW82w8ARdzZU9">link</a>
 
 ## Grading
 
@@ -372,7 +372,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
                  <li> TBA </li>
                  </ul>
             </td>
-            <td> </td>
+            <td> <ul> <li> Weeks 2/3 <b>anonymous feedback</b> <a href="https://forms.gle/mYYq6VPXSZiqAJdeA">link</a> </li> </ul></td>
         </tr>
         <tr>
             <td rowspan=2>3</td>
@@ -393,8 +393,8 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td> Quadrature methods cont.</td>
             <td> </td>
             <td> <ul>
-                 <li> <a href="https://gubner.ece.wisc.edu/gaussquad.pdf">https://gubner.ece.wisc.edu/gaussquad.pdf</a></li>
-                 <li> <a href="https://aalexan3.math.ncsu.edu/articles/gauss_quad.pdf">https://aalexan3.math.ncsu.edu/articles/gauss_quad.pdf</a></li>
+                 <li> <a href="#gq1">GQ1</a></li>
+                 <li> <a href="#gq2">GQ2</a></li>
                  <li> Sect. 2.9 of <a href="#wilf">WILF</a> </li>
                  <li> Ch. 9 of <a href="#TJ-sul">TJSUL</a></li>
                  <li><a href="https://github.com/lalyman/cme-270/tree/main/lecture-notes/lecture6_oct7/Lecture6.ipynb">Lecture 6 notes</a> </li>
@@ -404,6 +404,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <ul>
             <li>HW 1 released</li>
             <li> <b>Final Study List deadline</b> on Friday (10/08) </li>
+            <li> Weeks 2/3 <b>anonymous feedback</b> <a href="https://forms.gle/mYYq6VPXSZiqAJdeA">link</a> </li>
             </ul> 
             </td>
         </tr>
@@ -590,8 +591,6 @@ Identifiers appear in brackets below, and each one links to an online version of
 
 ### Texts
 
-
- 
 1. [[NMSC]](https://www.jstor.org/stable/j.ctv7h0skv) D. Xiu, <i>Numerical Methods for Stochastic Computations: A Spectral Method Approach</i>. Princeton University Press (2010)
 
 2. <span id="owen-mc"></span>[[MC]](https://statweb.stanford.edu/~owen/mc/)  &#10026; A. B. Owen, <i> Monte Carlo Theory, Methods, and Examples.</i> Copyright Art Owen. (2013)
@@ -607,21 +606,26 @@ Identifiers appear in brackets below, and each one links to an online version of
 
 7. <span id="smith-book"></span>[[UQTIA]](https://my.siam.org/Store/Product/viewproduct/?ProductId=24973024)  &#10026; R.C. Smith, <i>Uncertainty Quantification: Theory, Implementation, and Applications</i>. SIAM series on Computational Science and Engineering (2013)
 
-8.  <span id="wilf"></span>[[WILF]](https://www2.math.upenn.edu/~wilf/website/Mathematics%20for%20the%20Physical%20Sciences.pdf) H. Wilf, <i>Mathematics for the Physical Sciences</i>. Dover Publications (1962)
+8. <span id="wilf"></span>[[WILF]](https://www2.math.upenn.edu/~wilf/website/Mathematics%20for%20the%20Physical%20Sciences.pdf) H. Wilf, <i>Mathematics for the Physical Sciences</i>. Dover Publications (1962)
 
+### Online Resources (< 10 Pages)
+
+9. <span id="gq1"></span>[[GQ1]](https://aalexan3.math.ncsu.edu/articles/gauss_quad.pdf) A. Alexanderian, "A Brief Note on Gaussian Quadrature" (2018)
+
+10. <span id="gq2"></span>[[GQ2]](https://gubner.ece.wisc.edu/gaussquad.pdf) J. Gubner, "Gaussian Quadrature and the Eigenvalue Problem" (2020)
 
 ### Papers and Theses 
  
-8. [[CON]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.728.2155&rep=rep1&type=pdf) P. Constantine, "Spectral Methods for Parametrized Matrix Equations." PhD thesis, Stanford University, August 2009.
+11. [[CON]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.728.2155&rep=rep1&type=pdf) P. Constantine, "Spectral Methods for Parametrized Matrix Equations." PhD thesis, Stanford University, August 2009
 
-9. [[gPcCON]](https://doi.org/10.1051/m2an/2011045) O.G. Ernst, A. Mugler, H.J. Starkloff, and E. Ullman, "On the Convergence of Generalized Polynomial Chaos Expansions." ESAIM: Mathematical Modelling and Numerical Analysis (2011)
+12. [[gPcCON]](https://doi.org/10.1051/m2an/2011045) O.G. Ernst, A. Mugler, H.J. Starkloff, and E. Ullman, "On the Convergence of Generalized Polynomial Chaos Expansions." ESAIM: Mathematical Modelling and Numerical Analysis (2011)
 
-10.  <span id="pro-therapy"></span>[[PCPT]](https://d1rkab7tlqy5f1.cloudfront.net/TNW/Afdelingen/Radiation%20Science%20and%20Technology/Research%20Groups/RPNM/Publications/MSc_Sebastian_van_der_Voort.pdf) S. van der Voort, "Application of Polynomial Chaos in Proton Therapy: Dose Distributions, Treatment Parameters, Robustness Recipes & Treatment Planning."  Master thesis, Delft University of Technology (TU Delft), June 2015
+13.  <span id="pro-therapy"></span>[[PCPT]](https://d1rkab7tlqy5f1.cloudfront.net/TNW/Afdelingen/Radiation%20Science%20and%20Technology/Research%20Groups/RPNM/Publications/MSc_Sebastian_van_der_Voort.pdf) S. van der Voort, "Application of Polynomial Chaos in Proton Therapy: Dose Distributions, Treatment Parameters, Robustness Recipes & Treatment Planning."  Master thesis, Delft University of Technology (TU Delft), June 2015
 
-11.   <span id="rahman"></span>[[RAH]](https://doi.org/10.1016/j.jmaa.2017.04.062) S. Rahman, "Wiener-Hermite polynomial expansion for multivariate Gaussian probability measures." Journal of Mathematical Analysis and Applications (2017)
+14.   <span id="rahman"></span>[[RAH]](https://doi.org/10.1016/j.jmaa.2017.04.062) S. Rahman, "Wiener-Hermite polynomial expansion for multivariate Gaussian probability measures." Journal of Mathematical Analysis and Applications (2017)
 
-12. <span id="col-surv"></span>[[SCM]](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-11259-6_26-1) D. Xiu, "Stochastic Collocation Methods: A Survey." Handbook of Uncertainty Quantification, Springer (2015).
+15. <span id="col-surv"></span>[[SCM]](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-11259-6_26-1) D. Xiu, "Stochastic Collocation Methods: A Survey." Handbook of Uncertainty Quantification, Springer (2015).
 
-13. [[UQSDS]](https://publikationen.bibliothek.kit.edu/1000025838/1993392) M. Schick, "Uncertainty Quantification for Stochastic Dynamical Systems: Spectral Methods using Generalized Polynomial Chaos." PhD thesis, Karlsruher Instituts fur Technologie (KIT), 21 December 2011
+16. [[UQSDS]](https://publikationen.bibliothek.kit.edu/1000025838/1993392) M. Schick, "Uncertainty Quantification for Stochastic Dynamical Systems: Spectral Methods using Generalized Polynomial Chaos." PhD thesis, Karlsruher Instituts fur Technologie (KIT), 21 December 2011
 
-14. <span id="xiu-thesis"></span>[[XIU]](https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Dongbin%20Xiu%20Thesis.pdf) D. Xiu, "Generalized (Wiener-Askey) Polynomial Chaos." PhD thesis,  Brown University, 30 May 2004
+17. <span id="xiu-thesis"></span>[[XIU]](https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Dongbin%20Xiu%20Thesis.pdf) D. Xiu, "Generalized (Wiener-Askey) Polynomial Chaos." PhD thesis,  Brown University, 30 May 2004
