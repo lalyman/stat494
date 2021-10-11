@@ -393,8 +393,6 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td> Quadrature methods cont.</td>
             <td> </td>
             <td> <ul>
-                 <li> <a href="#gq1">GQ1</a></li>
-                 <li> <a href="#gq2">GQ2</a></li>
                  <li> Sect. 2.9 of <a href="#wilf">WILF</a> </li>
                  <li> Ch. 9 of <a href="#TJ-sul">TJSUL</a></li>
                  <li><a href="https://github.com/lalyman/cme-270/tree/main/lecture-notes/lecture6_oct7/Lecture6.ipynb">Lecture 6 notes</a> </li>
@@ -412,10 +410,13 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>4</td>
             <td>10/12</td>
             <td>Tue</td>
-            <td>  Priors on function spaces; Gaussian processes; KL expansion; Mercer's theorem</td>
+            <td>  Gaussian quadrature; priors on function spaces</td>
             <td>  </td>
             <td><ul>
-                <li> TBD </li></ul>   </td>
+                <li> <a href="#gq1">GQ1</a></li>
+                 <li> <a href="#gq2">GQ2</a></li>
+                </ul>
+            </td>
             <td>  </td>
         </tr>
         <tr>
@@ -431,7 +432,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>5</td>
             <td>10/19</td>
             <td>Tue</td>
-             <td> Kriging; residual minimizing models; <b>discussion of <a href="#final-p">final project</a></b></td>
+             <td> Gaussian processes; KL expansion; Mercer's theoremKriging; residual minimizing models; <b>discussion of <a href="#final-p">final project</a></b></td>
             <td>  </td>
             <td></td>
             <td> </td>
