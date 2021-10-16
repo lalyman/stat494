@@ -102,6 +102,7 @@ Of course, completing these surveys is <i>not</i> required; they are merely prov
 
 * Week 1 (09/20 - 09/24) feedback <a href="https://forms.gle/dgRDXWc9Qptyirjz5">link</a>
 * Week 2 and 3 (09/27 - 10/08) feedback <a href="https://forms.gle/v1LWXW82w8ARdzZU9">link</a>
+* Week 4 (10/11 - 10/15) feedback <a href="https://forms.gle/P9v8aCRCU5mSRhBX6">link</a>
 
 ## Grading
 
@@ -410,11 +411,12 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>4</td>
             <td>10/12</td>
             <td>Tue</td>
-            <td>  Gaussian quadrature; priors on function spaces</td>
+            <td> Final Gaussian quadrature proofs; CC quadrature</td>
             <td>  </td>
             <td><ul>
                 <li> <a href="#gq1">GQ1</a></li>
                  <li> <a href="#gq2">GQ2</a></li>
+                 <li> <a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/lecture7_oct12/Lecture7.ipynb">Jupyter notebook</a> </li>
                 </ul>
             </td>
             <td>  </td>
@@ -422,11 +424,13 @@ To give you a glimpse into research applications, and to keep the lectures fun a
         <tr>
             <td>10/14</td>
             <td>Thu</td>
-            <td><b>Guest lecture.</b> Sita Syal on her recent work w/ Prof. Margot Gerritsen</td>
+            <td><b>Guest lecture.</b> Sita Syal on her recent work w/ Prof. Margot Gerritsen; quadrature and least squares (time permitting) </td>
             <td>  </td>
             <td> 
             </td>
-            <td></td>
+            <td> <ul> <li> Week 4 <b>anonymous feedback</b> <a href="https://forms.gle/P9v8aCRCU5mSRhBX6">link</a> </li>
+                 </ul>
+            </td>
        </tr>
        <tr>
             <td rowspan=2>5</td>
