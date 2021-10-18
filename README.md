@@ -9,7 +9,7 @@
     * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted on both sites
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 28 September 2021, 10:40 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 18 October 2021, 11:26 AM PT.
 
 ## Contact
 
@@ -426,7 +426,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td>Thu</td>
             <td><b>Guest lecture.</b> Sita Syal on her recent work w/ Prof. Margot Gerritsen; quadrature and least squares (time permitting) </td>
             <td>  </td>
-            <td> 
+            <td> <ul><li> <a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/guest-lectures/SitaSyalGuestLec.pdf">Lecture slides</a></li> </ul>
             </td>
             <td> <ul> <li> Week 4 <b>anonymous feedback</b> <a href="https://forms.gle/P9v8aCRCU5mSRhBX6">link</a> </li>
                  </ul>
@@ -436,15 +436,20 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>5</td>
             <td>10/19</td>
             <td>Tue</td>
-             <td> Gaussian processes; KL expansion; Mercer's theorem; kriging; residual minimizing models; <b>discussion of <a href="#final-p">final project</a></b></td>
-            <td>  </td>
+             <td>Introduction to spectral methods and polynomial chaos; <b>discussion of <a href="#final-p">final project</a></b></td>
             <td></td>
+            <td> <ul>
+                 <li> Ch. 1 & 3 of <a href="#gi-book">PCM</a> </li>
+                 <li> Ch. 10 of <a href="#smith-book">UQTIA</a> </li>
+                 <li> Sect. 11.1 - 11.2 of <a href="#TJ-sul">TJSUL</a> </li>
+                 </ul>
+            </td>
             <td> </td>
         </tr>
          <tr>
             <td>10/21</td>
             <td>Thu</td>
-            <td><b>Guest lecture.</b> Professor Gianluca Iaccarino on optimization in UQ in research applications.</td>
+            <td><b>Guest lecture.</b> Professor Gianluca Iaccarino on uncertainties without probabilities and how to communicate uncertainty </td>
             <td>  </td>
             <td>  </td>
             <td><ul> <li>HW 1 <b>due</b>   </td>
@@ -453,7 +458,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>6</td>
             <td>10/26</td>
             <td>Tue</td>
-            <td>Generalized polynomial chaos (gPC) in 1D; Haar wavelet expansion, multiwavelet expansion, choice of basis functions; multi-element generalized polynomial chaos (ME-gPC) </td>
+            <td>Gaussian processes; KL expansion; Mercer's theorem; kriging; residual minimizing models; Generalized polynomial chaos (gPC) in 1D; Haar wavelet expansion, multiwavelet expansion, choice of basis functions; multi-element generalized polynomial chaos (ME-gPC) </td>
             <td>  </td>
             <td> <ul>
                  <li> Sect. 2.2 - 2.4 of <a href="#gi-book">PCM</a> </li>
