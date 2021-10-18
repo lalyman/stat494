@@ -3,13 +3,12 @@
 * CME 270, Fall Quarter, 2021
 * Meeting Time: T/Th 11:30 AM - 1:00 PM
 * Location: [Hewlett](https://campus-map.stanford.edu/?id=04-510&lat=37.42900001&lng=-122.17285486&zoom=17&srch=hewlett) 103
-* Course websites
+* Course information
     * (So meta) Github repository: [github.com/lalyman/cme-270/](https://github.com/lalyman/cme-270/)
-    * [Canvas](https://canvas.stanford.edu/courses/144967) site
-    * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
+    * The [Canvas](https://canvas.stanford.edu/courses/144967) site site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted here; lecture videos are distributed through [Canvas](https://canvas.stanford.edu/courses/144967)
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 18 October 2021, 11:26 AM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 18 October 2021, 11:35 AM PT.
 
 ## Contact
 
