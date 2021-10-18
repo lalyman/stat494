@@ -437,7 +437,10 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td>10/19</td>
             <td>Tue</td>
              <td>Introduction to spectral methods and polynomial chaos; <b>discussion of <a href="#final-p">final project</a></b></td>
-            <td></td>
+            <td><ul> <li> Fluid dynamics </li>
+                     <li> Dosimetry </li>
+                </ul>
+            </td>
             <td> <ul>
                  <li> Ch. 1 & 3 of <a href="#gi-book">PCM</a> </li>
                  <li> Ch. 10 of <a href="#smith-book">UQTIA</a> </li>
