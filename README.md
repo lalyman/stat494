@@ -7,7 +7,7 @@
     * (So meta) Github repository: [github.com/lalyman/cme-270/](https://github.com/lalyman/cme-270/)
     * [Canvas](https://canvas.stanford.edu/courses/144967) site
     * The Canvas site is maintained for grading, discussions, HW submissions, and class announcements
-    * HW assignments, details for the final project, and course notes will be posted on both sites
+    * HW assignments, details for the final project, and course notes will be posted here; lecture videos are distributed through [Canvas](https://canvas.stanford.edu/courses/144967)
 
 With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 18 October 2021, 11:26 AM PT.
 
