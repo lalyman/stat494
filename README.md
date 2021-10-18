@@ -451,7 +451,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
          <tr>
             <td>10/21</td>
             <td>Thu</td>
-            <td><b>Guest lecture.</b> Professor Gianluca Iaccarino on uncertainties without probabilities and how to communicate uncertainty </td>
+            <td><b>Guest lecture.</b> Professor Gianluca Iaccarino on QMU, how to effectively communicate uncertainty, deterministic uncertainty estimates, and interval arithmetic </td>
             <td>  </td>
             <td>  </td>
             <td><ul> <li>HW 1 <b>due</b>   </td>
