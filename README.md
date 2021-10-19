@@ -444,6 +444,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
                  <li> Ch. 1 & 3 of <a href="#gi-book">PCM</a> </li>
                  <li> Ch. 10 of <a href="#smith-book">UQTIA</a> </li>
                  <li> Sect. 11.1 - 11.2 of <a href="#TJ-sul">TJSUL</a> </li>
+                 <li> <a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/lecture9-oct19/Lecture9Oct19.pdf">Lecture 9 notes</a></li>
                  </ul>
             </td>
             <td> </td>
