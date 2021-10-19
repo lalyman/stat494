@@ -461,7 +461,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>6</td>
             <td>10/26</td>
             <td>Tue</td>
-            <td>Gaussian processes; KL expansion; Mercer's theorem; kriging; residual minimizing models; Generalized polynomial chaos (gPC) in 1D; Haar wavelet expansion, multiwavelet expansion, choice of basis functions; multi-element generalized polynomial chaos; <b>discussion of <a href="#final-p">final project</a></b> (ME-gPC) </td>
+            <td>Gaussian processes; KL expansion; Mercer's theorem; kriging; residual minimizing models; Generalized polynomial chaos (gPC) in 1D; Haar wavelet expansion, multiwavelet expansion, choice of basis functions; <b>discussion of <a href="#final-p">final project</a></b> </td>
             <td>  </td>
             <td> <ul>
                  <li> Sect. 2.2 - 2.4 of <a href="#gi-book">PCM</a> </li>
