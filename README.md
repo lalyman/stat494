@@ -8,7 +8,7 @@
     * The [Canvas](https://canvas.stanford.edu/courses/144967) site site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted here; lecture videos are distributed through [Canvas](https://canvas.stanford.edu/courses/144967)
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 18 October 2021, 11:35 AM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 19 October 2021, 4:43 PM PT.
 
 ## Contact
 
@@ -435,7 +435,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>5</td>
             <td>10/19</td>
             <td>Tue</td>
-             <td>Introduction to spectral methods and polynomial chaos; <b>discussion of <a href="#final-p">final project</a></b></td>
+             <td>Introduction to spectral methods and polynomial chaos</td>
             <td><ul> <li> Fluid dynamics </li>
                      <li> Dosimetry </li>
                 </ul>
@@ -461,7 +461,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>6</td>
             <td>10/26</td>
             <td>Tue</td>
-            <td>Gaussian processes; KL expansion; Mercer's theorem; kriging; residual minimizing models; Generalized polynomial chaos (gPC) in 1D; Haar wavelet expansion, multiwavelet expansion, choice of basis functions; multi-element generalized polynomial chaos (ME-gPC) </td>
+            <td>Gaussian processes; KL expansion; Mercer's theorem; kriging; residual minimizing models; Generalized polynomial chaos (gPC) in 1D; Haar wavelet expansion, multiwavelet expansion, choice of basis functions; multi-element generalized polynomial chaos; <b>discussion of <a href="#final-p">final project</a></b> (ME-gPC) </td>
             <td>  </td>
             <td> <ul>
                  <li> Sect. 2.2 - 2.4 of <a href="#gi-book">PCM</a> </li>
