@@ -8,7 +8,7 @@
     * The [Canvas](https://canvas.stanford.edu/courses/144967) site site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted here; lecture videos are distributed through [Canvas](https://canvas.stanford.edu/courses/144967)
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 19 October 2021, 4:43 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 20 October 2021, 6:31 PM PT.
 
 ## Contact
 
@@ -102,6 +102,7 @@ Of course, completing these surveys is <i>not</i> required; they are merely prov
 * Week 1 (09/20 - 09/24) feedback <a href="https://forms.gle/dgRDXWc9Qptyirjz5">link</a>
 * Week 2 and 3 (09/27 - 10/08) feedback <a href="https://forms.gle/v1LWXW82w8ARdzZU9">link</a>
 * Week 4 (10/11 - 10/15) feedback <a href="https://forms.gle/P9v8aCRCU5mSRhBX6">link</a>
+* Week 5 (10/18 - 10/22) feedback <a href="https://forms.gle/4pEdeqTg9u9bf6pB9">link</a>
 
 ## Grading
 
@@ -455,32 +456,36 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td><b>Guest lecture.</b> Professor Gianluca Iaccarino on QMU, how to effectively communicate uncertainty, deterministic uncertainty estimates, and interval arithmetic </td>
             <td>  </td>
             <td>  </td>
-            <td><ul> <li>HW 1 <b>due</b>   </td>
+            <td><ul>
+                <li>HW 1 <b>due</b> </li>
+                <li> Week 5 <b>anonymous feedback</b> <a href=https://forms.gle/4pEdeqTg9u9bf6pB9">link</a>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td rowspan=2>6</td>
             <td>10/26</td>
             <td>Tue</td>
-            <td>Gaussian processes; KL expansion; Mercer's theorem; kriging; residual minimizing models; Generalized polynomial chaos (gPC) in 1D; Haar wavelet expansion, multiwavelet expansion, choice of basis functions; <b>discussion of <a href="#final-p">final project</a></b> </td>
+            <td>Polynomial chaos continued (w/ numeric examples); examples of other spectral methods (KL expansion, Fourier series); <b>discussion of <a href="#final-p">final project</a></b>; <i>time permitting</i>: generalized polynomial chaos (gPC) in 1D (Haar wavelet expansion, multiwavelet expansion, choice of basis functions)  </td>
             <td>  </td>
             <td> <ul>
                  <li> Sect. 2.2 - 2.4 of <a href="#gi-book">PCM</a> </li>
                  <li><a href = "#xiu-thesis">XIU</a> </li>
-                 <li> Weiner-Askey Chaos paper </li>
+                 <li> <a href="#wiener-askey">WAPC</a> </li>
                  </ul> 
             </td>
-            <td><a href="#prop">Project Proposal</a> <b>due</b> </td>
+            <td></td>
         </tr>
         <tr>
             <td>10/28</td>
             <td>Thu</td>
-               <td>  Linear transport under uncertainty: problem definition, diagonalization of stochastic Galerkin system, eigenvalues of diffusion matrix, boundary conditions
+               <td> Gaussian processes; Mercer's theorem; kriging; residual minimizing models; linear transport under uncertainty: problem definition, diagonalization of stochastic Galerkin system, eigenvalues of diffusion matrix, boundary conditions
             <td>  </td>
             <td><ul>
                 <li> Sect. 5.1 - 5.3 of <a href="#gi-book">PCM</a></li>
                 </ul>
             </td>
-            <td></td>
+            <td><a href="#prop">Project Proposal</a> <b>due</b> </td>
         </tr>
         <tr>
             <td rowspan=2>7</td>
@@ -642,3 +647,6 @@ Identifiers appear in brackets below, and each one links to an online version of
 16. [[UQSDS]](https://publikationen.bibliothek.kit.edu/1000025838/1993392) M. Schick, "Uncertainty Quantification for Stochastic Dynamical Systems: Spectral Methods using Generalized Polynomial Chaos." PhD thesis, Karlsruher Instituts fur Technologie (KIT), 21 December 2011
 
 17. <span id="xiu-thesis"></span>[[XIU]](https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Dongbin%20Xiu%20Thesis.pdf) D. Xiu, "Generalized (Wiener-Askey) Polynomial Chaos." PhD thesis,  Brown University, 30 May 2004
+
+
+18. <a span id="wiener-askey"></span>[[WAPC]](https://epubs.siam.org/doi/10.1137/S1064827501387826) D. Xiu, G. Karniadakis, "Wiener-Askey Polynomial Chaos for Stochastic Differential Equations." SIAM J. Sci. Comput., 24(2), 619–644. (2002)
