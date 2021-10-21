@@ -8,7 +8,7 @@
     * The [Canvas](https://canvas.stanford.edu/courses/144967) site site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted here; lecture videos are distributed through [Canvas](https://canvas.stanford.edu/courses/144967)
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 20 October 2021, 6:31 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 21 October 2021, 3:11 PM PT.
 
 ## Contact
 
@@ -455,7 +455,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td>Thu</td>
             <td><b>Guest lecture.</b> Professor Gianluca Iaccarino on QMU, how to effectively communicate uncertainty, deterministic uncertainty estimates, and interval arithmetic </td>
             <td>  </td>
-            <td>  </td>
+            <td><ul><li><a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/guest-lectures/GianlucaSlidesGuestLec.pdf">Guest lecture slides</a> </li> </ul> </td>
             <td><ul>
                 <li>HW 1 <b>due</b> </li>
                 <li> Week 5 <b>anonymous feedback</b> <a href=https://forms.gle/4pEdeqTg9u9bf6pB9">link</a>
