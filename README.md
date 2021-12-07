@@ -8,7 +8,7 @@
     * The [Canvas](https://canvas.stanford.edu/courses/144967) site site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted here; lecture videos are distributed through [Canvas](https://canvas.stanford.edu/courses/144967)
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 6 December 2021, 6:51 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 6 December 2021, 7:01 PM PT.
 
 ## Contact
 
