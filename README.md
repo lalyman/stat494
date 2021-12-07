@@ -8,7 +8,7 @@
     * The [Canvas](https://canvas.stanford.edu/courses/144967) site site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted here; lecture videos are distributed through [Canvas](https://canvas.stanford.edu/courses/144967)
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 21 October 2021, 3:11 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 6 December 2021, 6:51 PM PT.
 
 ## Contact
 
@@ -22,7 +22,7 @@ With high probability, this `README.md` file represents the most updated version
 Uncertainty is a challenge. Representing a lack of knowledge, it hampers our attempts to draw scientific conclusions and confidently design engineering solutions. Failing to account for uncertainty can lead to false discoveries, while overreacting to uncertainty can limit our ability to say anything meaningful or spend resources judiciously. Overcoming these issues requires identifying, quantifying, and managing uncertainties through a combination of technical skills and an appropriate mindset. This class surveys advances in computation given the presence of uncertainties. 
 </p>
 
-## Course Description (for Stanford's [Explore Courses](https://explorecourses.stanford.edu/))
+## Course Description (for Stanford's [Explore Courses](https://explorecourses.stanford.edu/m_search?page=6&q=CME&filter-catalognumber-CME=on))
 
 <p align=justify>
 If a politician, executive, or medical team were to use the results of your model for some critical decision, how well would you sleep at night? As computation plays an increasingly important role in our society, understanding the limitations of its predictive capabilities becomes of the utmost importance. Uncertainty quantification (UQ) considers the intersection of probability, statistics, numerics, and disciplinary sciences to provide a computational framework for measuring and reducing uncertainties. This graduate course focuses in depth on topics that are less typically covered in a traditional introduction to UQ, with particular attention given to polynomial chaos methods, Galerkin schemes, linear transport with uncertainty, and active subspaces. Research applications will be emphasized through assignments and student-defined projects. <b>Prerequisite</b>: probability and statistics at the level of CME 106 or equivalent, linear algebra at the level of CME 200 or equivalent, or consent of the instructor.
@@ -270,6 +270,11 @@ The final days of the class will be reserved for student Final Presentations. Th
    * introduce the class to the variety of UQ problems, and 
    * reflect on if/how the project addressed your original learning goals.
 
+
+<p align=justify>
+You can sign-up for your final presentation slot <a href="https://forms.gle/VmdgL7k386vNg6in8">here</a>.
+</p>
+
 ### Report<span id="rep"></span>
 The final Report will be due during finals period. For the Report, you must:
 
@@ -341,7 +346,6 @@ To give you a glimpse into research applications, and to keep the lectures fun a
                  </ul>
             </td>
             <td> <ul>
-                 <li> HW 1 release <b> TBD </b> </li>
                  <li> Week 1 <b>anonymous feedback</b> <a href="https://forms.gle/dgRDXWc9Qptyirjz5">link</a></li>
                  </ul>
             </td>
@@ -458,6 +462,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td><ul><li><a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/guest-lectures/GianlucaSlidesGuestLec.pdf">Guest lecture slides</a> </li> </ul> </td>
             <td><ul>
                 <li>HW 1 <b>due</b> </li>
+                <li>HW 2 released</b> </li>
                 <li> Week 5 <b>anonymous feedback</b> <a href=https://forms.gle/4pEdeqTg9u9bf6pB9">link</a>
                 </ul>
             </td>
@@ -505,7 +510,11 @@ To give you a glimpse into research applications, and to keep the lectures fun a
                 <li> Sect. 6.1 - 6.5 of <a href="#gi-book">PCM</a> </li>
                 </ul>
             </td>
-            <td> </td>
+            <td><ul>
+                <li>HW 2 <b>due</b> </li>
+                <li>HW 3 released </li>
+                </ul> 
+            </td>
         </tr>
          <tr>
             <td rowspan=2>8</td>
@@ -549,7 +558,10 @@ To give you a glimpse into research applications, and to keep the lectures fun a
                 <li> Research paper <a href="#rahman">RAH</a> </li>
                 </ul>
             </td>
-            <td>  </td>
+            <td><ul> <li> HW 3 <b>due</b> </li>
+                     <li> <a href="https://forms.gle/VmdgL7k386vNg6in8">Sign up</a> for a project presentation slot</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td colspan=7><b>Fall Break</b> (11/22 - 11/26)</td>
@@ -558,22 +570,39 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan=2>10</td>
             <td>11/30</td>
             <td>Tue</td>
-            <td>Final project presentations (accompanying write-up is due as late as 12/10)</td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td>State estimation in discrete time; Kalman filtering </td>
+            <td><ul>
+                <li>Autonomous vehicle naviation (Stanford's <a href="https://navlab.stanford.edu/research/verifiable-perception-and-navigation">NAV Lab</a>) and prevention of <a href="https://arxiv.org/pdf/2101.04835.pdf">spoofing</a>;</li>
+                <li>Unmanned Aerial Vehicle (UAV) motion sensing </li>
+                <li>Signal processing</li>
+                </ul>
+                </td>
+            <td><ul>
+                <li> Pedagogical/interactive example for <a href="https://www.cs.unc.edu/~welch/kalman/kftool/index.html">water dynamics</a>, e.g., filling, sloshing, etc. </li>
+                <li><a href="https://www.cs.cornell.edu/courses/cs4758/2012sp/materials/MI63slides.pdf">Slides</a> from Cornell's CS department </li>
+                <li>Open-access chapter <a href="#kfrta">KFRTA</a>
+            </ul>  </td>
+            <td><ul>
+                <li> Presentations begin on <b>Thursday</b> (12/02)
+               </ul>
+            </td>
         </tr>
         <tr>
             <td>12/02</td>
             <td>Thu</td>
-            <td>Final project presentations (accompanying write-up due as late as 12/10)</td>
-            <td>  </td>
+            <td>30 minutes of lecturing on Kalman filtering; final project presentations (accompanying write-up due as late as 12/10)</td>
+            <td>
+            </td>
             <td>  </td>
              <td><b>Last day of class</b></td>
         </tr>
         <tr>
             <td rowspan = 2, colspan = 6><b>Finals week (12/06 - 12/10)</b>
-          <td><a href="#rep">Project Report</a><b> due 12/10</b></td>
+          <td><ul>
+              <li><a href="#rep">Project Report</a><b> due 12/10</b></li>
+              <li> You may <a href="https://forms.gle/VmdgL7k386vNg6in8">sign-up </a> to give your presentation during <b>Wednesday office hours</b> (5 - 6:30 pm)
+              </ul>
+          </td>
         </tr>
     </tbody>
 </table>
@@ -631,6 +660,8 @@ Identifiers appear in brackets below, and each one links to an online version of
 9. <span id="gq1"></span>[[GQ1]](https://aalexan3.math.ncsu.edu/articles/gauss_quad.pdf) A. Alexanderian, "A Brief Note on Gaussian Quadrature" (2018)
 
 10. <span id="gq2"></span>[[GQ2]](https://gubner.ece.wisc.edu/gaussquad.pdf) J. Gubner, "Gaussian Quadrature and the Eigenvalue Problem" (2020)
+
+11. <span id="kfrta"></span>[[KFRTA]](https://doi.org/10.5772/62352) L.C. Hun, O.L. Yeng, L.T. Sze, K.V. Chet, "Kalman Filtering and Its Real‐Time Applications" (2016)
 
 ### Papers and Theses 
  
