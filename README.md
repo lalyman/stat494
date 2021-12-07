@@ -590,10 +590,10 @@ To give you a glimpse into research applications, and to keep the lectures fun a
         <tr>
             <td>12/02</td>
             <td>Thu</td>
-            <td>30 minutes of lecturing on Kalman filtering; final project presentations (accompanying write-up due as late as 12/10)</td>
-            <td>
+            <td>30 min. of lecture on pseudo-random number generation; final project presentations (accompanying write-up due as late as 12/10)</td>
+            <td> 
             </td>
-            <td>  </td>
+            <td><a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/lecture17-dec12/CME270Lecture17Dec2.pdf">Lecture notes</a> on pseudo-random number generation (brief)</td>
              <td><b>Last day of class</b></td>
         </tr>
         <tr>
