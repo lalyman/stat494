@@ -578,12 +578,12 @@ To give you a glimpse into research applications, and to keep the lectures fun a
                 </ul>
                 </td>
             <td><ul>
-                <li> Pedagogical/interactive example for <a href="https://www.cs.unc.edu/~welch/kalman/kftool/index.html">water dynamics</a>, e.g., filling, sloshing, etc. </li>
+                <li> Pedagogical & interactive example for <a href="https://www.cs.unc.edu/~welch/kalman/kftool/index.html">water dynamics</a>, e.g., filling, sloshing, etc. </li>
                 <li><a href="https://www.cs.cornell.edu/courses/cs4758/2012sp/materials/MI63slides.pdf">Slides</a> from Cornell's CS department </li>
                 <li>Open-access chapter <a href="#kfrta">KFRTA</a>
             </ul>  </td>
             <td><ul>
-                <li> Presentations begin on <b>Thursday</b> (12/02)
+                <li> Presentations begin on <b>Thurs.</b> (12/02)
                </ul>
             </td>
         </tr>
@@ -600,7 +600,7 @@ To give you a glimpse into research applications, and to keep the lectures fun a
             <td rowspan = 2, colspan = 6><b>Finals week (12/06 - 12/10)</b>
           <td><ul>
               <li><a href="#rep">Project Report</a><b> due 12/10</b></li>
-              <li> You may <a href="https://forms.gle/VmdgL7k386vNg6in8">sign-up </a> to give your presentation during <b>Wednesday office hours</b> (5 - 6:30 pm)
+              <li> You may <a href="https://forms.gle/VmdgL7k386vNg6in8">sign-up </a> to give your presentation during <b>Wed. office hours</b> (5 - 6:30 pm)
               </ul>
           </td>
         </tr>
