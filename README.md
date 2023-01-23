@@ -1,20 +1,20 @@
 # Advances in Computing with Uncertainties
 
-* CME 270, Fall Quarter, 2021
-* Meeting Time: T/Th 11:30 AM - 1:00 PM
-* Location: [Hewlett](https://campus-map.stanford.edu/?id=04-510&lat=37.42900001&lng=-122.17285486&zoom=17&srch=hewlett) 103
+* STAT 494, Spring, 2023
+* Meeting Time: M/W/F 10:50 AM - 11:50 PM
+* Location: OLRI 170
 * Course information
-    * (So meta) Github repository: [github.com/lalyman/cme-270/](https://github.com/lalyman/cme-270/)
-    * The [Canvas](https://canvas.stanford.edu/courses/144967) site site is maintained for grading, discussions, HW submissions, and class announcements
-    * HW assignments, details for the final project, and course notes will be posted here; lecture videos are distributed through [Canvas](https://canvas.stanford.edu/courses/144967)
+    * (So meta) Github repository: [github.com/lalyman/stat494/](https://github.com/lalyman/stat494/)
+    * The (currently oh-so-blank) Moodle ([https://moodle.macalester.edu/course/view.php?id=1438](https://moodle.macalester.edu/course/view.php?id=1438)] site is maintained for grading, discussions, HW submissions, and class announcements
+    * HW assignments, details for the final project, and course notes will be posted here.
 
-With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 6 December 2021, 7:01 PM PT.
+With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 23 January 2023.
 
 ## Contact
 
 * Primary Instructor: Laura Lyman (pronouns: she/her/hers)
-* Email: `lymanla@stanford.edu`
-* **Office Hours**: Tu/W from 5:00 - 6:30 PM in <a href = "https://campus-map.stanford.edu/?id=04-060&lat=37.4289861377&lng=-122.175177853&zoom=16&srch=Shriram%20Center%20For%20Bioengineering%20">Shriram</a> SB35 from 9/21 onward
+* Email: `llyman@macalester.edu`
+* **Office Hours**: TBD in OLRI 224
 
 ## Introduction
 
