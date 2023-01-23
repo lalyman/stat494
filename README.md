@@ -5,7 +5,7 @@
 * Location: OLRI 170
 * Course information
     * (So meta) Github repository: [github.com/lalyman/stat494/](https://github.com/lalyman/stat494/)
-    * The (currently oh-so-blank) Moodle ([https://moodle.macalester.edu/course/view.php?id=1438](https://moodle.macalester.edu/course/view.php?id=1438)] site is maintained for grading, discussions, HW submissions, and class announcements
+    * The (currently oh-so-blank) [https://moodle.macalester.edu/course/view.php?id=1438](Moodle) site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted here.
 
 With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 23 January 2023.
@@ -19,48 +19,8 @@ With high probability, this `README.md` file represents the most updated version
 ## Introduction
 
 <p align=justify>
-Uncertainty is a challenge. Representing a lack of knowledge, it hampers our attempts to draw scientific conclusions and confidently design engineering solutions. Failing to account for uncertainty can lead to false discoveries, while overreacting to uncertainty can limit our ability to say anything meaningful or spend resources judiciously. Overcoming these issues requires identifying, quantifying, and managing uncertainties through a combination of technical skills and an appropriate mindset. This class surveys advances in computation given the presence of uncertainties. 
+Uncertainty is a challenge. Representing a lack of knowledge, it hampers our attempts to draw scientific conclusions and confidently design engineering solutions. Failing to account for uncertainty can lead to false discoveries, while overreacting to uncertainty can limit our ability to say anything meaningful or spend resources judiciously. Overcoming these issues requires identifying, quantifying, and managing uncertainties through a combination of technical skills and an appropriate mindset. This class surveys advances in computation given the presence of uncertainties, especially for models governed by stochastic partial differential equations.
 </p>
-
-## Course Description (for Stanford's [Explore Courses](https://explorecourses.stanford.edu/m_search?page=6&q=CME&filter-catalognumber-CME=on))
-
-<p align=justify>
-If a politician, executive, or medical team were to use the results of your model for some critical decision, how well would you sleep at night? As computation plays an increasingly important role in our society, understanding the limitations of its predictive capabilities becomes of the utmost importance. Uncertainty quantification (UQ) considers the intersection of probability, statistics, numerics, and disciplinary sciences to provide a computational framework for measuring and reducing uncertainties. This graduate course focuses in depth on topics that are less typically covered in a traditional introduction to UQ, with particular attention given to polynomial chaos methods, Galerkin schemes, linear transport with uncertainty, and active subspaces. Research applications will be emphasized through assignments and student-defined projects. <b>Prerequisite</b>: probability and statistics at the level of CME 106 or equivalent, linear algebra at the level of CME 200 or equivalent, or consent of the instructor.
-</p>
-
-## Similar Courses
-
-
-#### ME 470/CEE 362A: Uncertainty Quantification
-
-<p align=justify>
-This course is <i>most</i> similar to Uncertainty Quantification (ME 470/CEE 362A), which will be offered in Spring, 2022. ME 470 is taught by the incredible Professor Catherine Gorle &mdash; and will be co-taught by Professor Gianluca Iaccarino and (potentially) me. As for how the classes compare, there is some unavoidable overap in the introductory material covered in the first few weeks. However, the courses then diverge to explore different topics, which I've illustrated below for your convenience. 
-</p>
-
-<table>
-  <tr>
-    <td>       </td>
-    <td><b>ME 470</b></td>
-    <td><b>CME 270</b></td>
-  </tr>
-  <tr>
-  <td> <b>Differing topics</b> </td>
-  <td> Reduced order/surrogate modeling, parameter estimation (frequentist, Bayesian), sensitivity analysis (local, global), sparse grid quadrature </td>
-  <td> Generalized polynomial chaos (gPC), Karhunen-Loeve expansion, linear/nonlinear transport under uncertainty, kriging, topics in polynomial chaos (handling high dimensions, correlated inputs, etc.)  </td>
-  </tr>
-  <tr>
-    <td>  <b>Shared topics</b></td>
-    <td colspan="2">Aleatory vs epistemic uncertainty, probability theory, Galerkin methods, polynomial chaos, Monte Carlo sampling, importance sampling, collocation, uncertainty propagation basics </td>
-  </tr>
-</table>
-
-You can certainly take both classes and learn quite a bit. 
-
-#### CS 238: Decision Making under Uncertainty
-
-Topics for this course include Bayesian networks, influence diagrams, dynamic programming, reinforcement learning, and partially observable Markov decision processes. 
-
-Some other similar courses include <b>CS 228 (Probabilistic Graphical Models) </b> and <b>STATS 362 (Monte Carlo Methods)</b>.
 
 
 
