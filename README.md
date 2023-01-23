@@ -5,7 +5,7 @@
 * Location: OLRI 170
 * Course information
     * (So meta) Github repository: [github.com/lalyman/stat494/](https://github.com/lalyman/stat494/)
-    * The (currently oh-so-blank) [https://moodle.macalester.edu/course/view.php?id=1438](Moodle) site is maintained for grading, discussions, HW submissions, and class announcements
+    * The (currently oh-so-blank) [Moodle](https://moodle.macalester.edu/course/view.php?id=1438) site is maintained for grading, discussions, HW submissions, and class announcements
     * HW assignments, details for the final project, and course notes will be posted here.
 
 With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 23 January 2023.
