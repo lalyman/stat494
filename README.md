@@ -119,19 +119,6 @@ The components of the final project are discussed in the following sections.
 Paticipation is a combination of attendance and asking questions. To fulfill this track, you are responsible for <b>asking at least one question per week</b> about the material. It is <b>best if you ask your question during class</b> -- as you will see, I try very hard to make the learning environment feel as safe and relaxed as possible. (See <a href='#dumb-q'>What if I'm Nervous About Asking A Question?</a>). However, if you are shy, miss the lectures, forget, etc. you can fulfill this track by <b>emailing me your weekly question.</b> The only restriction is that a question should be one such that you learn something about the class <i>material</i> (not class logistics) from the answer; it can be as specific as, "What happened during this step on the board?" or as broad as, "Why do people care about concept X?"
 </p>
 
-<p align=justify>
-There are 20 lectures in the quarter. The following breakdown is formulated with the understanding that people sometimes spend the first week deciding between various classes.
-</p>
-
-|Number of Lectures Attended | Number of Questions Asked | Estimated Grade
----|---|---
-&#8805; 17 |&#8805; 9 | A
-&#8805; 15 |&#8805; 8 | B
-&#8805; 13 |&#8805; 6 | C
-
-<p align="justify">
-If you are in danger of not meeting the 'C' requirement, and you are taking this course for 1 unit, I will reach out to you so that we can develop a plan for you to pass.
-</p>
 
 ## Final Project <span id="final-p"></span> 
 
