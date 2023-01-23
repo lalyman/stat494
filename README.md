@@ -1,4 +1,4 @@
-# Advances in Computing with Uncertainties
+# Research Seminar in Statistics
 
 * STAT 494, Spring, 2023
 * Meeting Time: M/W/F 10:50 AM - 11:50 PM
