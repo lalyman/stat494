@@ -46,7 +46,7 @@ Our goal as a classroom community should be to build an environment in which eve
 ### One-on-ones
 
 <p align=justify>
-Within the first few weeks of the quarter, I will schedule one-on-one meetings (15-20 minutes) with each of you. These are meant to be informal. The goal of these meetings is for me to: (1) get to know you, (2) hear about your background, (3) listen to what you are hoping to get from this class, (4) understand your time constraints for the quarter, and (5) provide space for you to voice questions, concerns, or anything you'd like to talk through. You can sign up for a meeting time slot <a href="https://forms.gle/jG1vueQPNqzSei9A7">here</a>. 
+Within the first few weeks of the quarter, I will schedule one-on-one meetings (15-20 minutes) with each of you. These are meant to be informal. The goal of these meetings is for me to: (1) get to know you, (2) hear about your background, (3) listen to what you are hoping to get from this class, (4) understand your time constraints for the quarter, and (5) provide space for you to voice questions, concerns, or anything you'd like to talk through. You will receive a link for signing up for a meeting time slot.
 </p>
 
 ### Anonymous feedback
@@ -59,23 +59,18 @@ Open and honest communication are the bedrock of a successful classrom experienc
 Of course, completing these surveys is <i>not</i> required; they are merely provided as an additional resource. You can fill out as much or as little of a survey as you deem fit. All that being said, the feedback will help me improve your course experience.
 </p>
 
-* Week 1 (09/20 - 09/24) feedback <a href="https://forms.gle/dgRDXWc9Qptyirjz5">link</a>
-* Week 2 and 3 (09/27 - 10/08) feedback <a href="https://forms.gle/v1LWXW82w8ARdzZU9">link</a>
-* Week 4 (10/11 - 10/15) feedback <a href="https://forms.gle/P9v8aCRCU5mSRhBX6">link</a>
-* Week 5 (10/18 - 10/22) feedback <a href="https://forms.gle/4pEdeqTg9u9bf6pB9">link</a>
-
 ## Grading
 
 ### Philosophy
 <p align=justify>
-This is an upper-level graduate course. My assumption is that students taking this class are primarily engaged in research and are taking courses to support that activity. Thus, my expectation is that this class is of <b>secondary importance</b> in your current workload. My grading philosophy is <b>relaxed</b> and formulated with this assumption in mind. </p>
+This is an upper-level course. My assumption is that students taking this class are excited about mathematics, statistics, computer science, and research within these subjects. That being said, several of the topics introduced are not found in a typical undergraduate cirriculum, and research progress is inherently nonlinear. My grading philosophy is <b>relaxed</b> and formulated with these assumptions in mind. </p>
 
 That being said, here are the guidelines.
 
 
-### Specifics for 3 Units
+### Assessment
 
-The following is the breakdown of assessments for taking the course for **3 units**.
+The following is the breakdown of assessments.
 
 <table>
 <thead>
@@ -87,8 +82,8 @@ The following is the breakdown of assessments for taking the course for **3 unit
   <tbody>
     <tr>
       <td> <ul> 
-           <li> Homework (3 assignments, 15% each) <b>OR</b> </li>
-           <li> Homework (2 assignments, 15% each) + <a href='#participation'>Participation</a> (15%)
+           <li> Homework (5 - 6 assignments, 45% total) <b>OR</b> </li>
+           <li> Homework (one fewer HW assignment, 30% total) + <a href='#participation'>Participation</a> (15%)
            </ul>
       </td>
       <td> 45% </td>
@@ -116,60 +111,12 @@ The following is the breakdown of assessments for taking the course for **3 unit
 
 The components of the final project are discussed in the following sections. 
 
-### Specifics for 2 Units
 
-This is the breakdown of assessments for taking the course for **2 units**. It is similar to the assessment for 3 units, only with one fewer homework assignment.
-<table>
-<thead>
-</thead>
-  <tr>
-    <th> Component </th>
-    <th> Percentage of Grade </th>
-  </tr>
-  <tbody>
-    <tr>
-      <td> <ul> 
-           <li> Homework (2 assignments, 22.5% each) <b>OR</b> </li>
-           <li> Homework (1 assignment, 22.5%) + <a href='#participation'>Participation</a> (22.5%)
-           </ul>
-      </td>
-      <td> 45% </td>
-    </tr>
-    <tr>
-      <td>Project
-        <ul>
-          <li> Proposal </li>
-          <li> Peer Review </li>
-          <li> Presentation </li>
-          <li> Report </li>
-        </ul>
-      </td>
-      <td>55% 
-        <ul>
-          <li> 10% </li>
-          <li> 15% </li>
-          <li> 15% </li>
-          <li> 15% </li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-### Specifics for 1 Unit 
-
-<ul>
-<li> If you are taking the course for <b>1 unit</b>, the grading is based purely on <a href='#participation'>Participation</a>, which is described below. </li>
-
-<li> Attendance is required for the 1 unit version of this class. However, I understand that sometimes life can complicate this. If so, you are responsible for reaching out to me (<a href = "mailto:lymanla@stanford.edu">lymanla@stanford.edu</a>) directly. We will come up with a plan; likely, it will involve a one page writeup on the material you missed to "count" for some number of classes. 
-This is only an option for the 1 unit folks; if you are counting Participation in your grade for 2 - 3 units, that is earned through regular attendance.
-</ul>
 
 ## Participation <span id="participation"></span> 
 
 <p align=justify>
-Paticipation is a combination of attendance and asking questions. To fulfill this track (<b>required</b> for 1 unit, <b>optional</b> for 2 - 3 units), you are responsible for <b>asking at least one question per week</b> about the material. It is <b>best if you ask your question during class</b> -- as you will see, I try very hard to make the learning environment feel as safe and relaxed as possible. (See <a href='#dumb-q'>What if I'm Nervous About Asking A Question?</a>). However, if you are shy, miss the lectures, forget, etc. you can fulfill this track by <b>emailing me your weekly question.</b> The only restriction is that a question should be one such that you learn something about the class <i>material</i> (not class logistics) from the answer; it can be as specific as, "What happened during this step on the board?" or as broad as, "Why do people care about concept X?"
+Paticipation is a combination of attendance and asking questions. To fulfill this track, you are responsible for <b>asking at least one question per week</b> about the material. It is <b>best if you ask your question during class</b> -- as you will see, I try very hard to make the learning environment feel as safe and relaxed as possible. (See <a href='#dumb-q'>What if I'm Nervous About Asking A Question?</a>). However, if you are shy, miss the lectures, forget, etc. you can fulfill this track by <b>emailing me your weekly question.</b> The only restriction is that a question should be one such that you learn something about the class <i>material</i> (not class logistics) from the answer; it can be as specific as, "What happened during this step on the board?" or as broad as, "Why do people care about concept X?"
 </p>
 
 <p align=justify>
