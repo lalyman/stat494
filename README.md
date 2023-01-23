@@ -187,9 +187,7 @@ The Report is meant more for you to have a personal record of what you learned a
 <b>With nonzero probability</b>, the following lecture schedule will be used. The usual "elasticity clause" applies here, as certain topics might take more or less time to cover than originally anticipated. 
 </p>
 
-<p align="justify">
-To give you a glimpse into research applications, and to keep the lectures fun and engaging, this course features <b>guest speakers</b>! We are lucky to have the amazing <a href="https://profiles.stanford.edu/gianluca-iaccarino">Gianluca Iaccarino</a>, <a href="https://statistics.stanford.edu/people/art-b-owen">Art Owen</a>, <a href="https://www.zdelrosario.com/">Zach del Rosario</a>, and <a href="https://profiles.stanford.edu/sita-syal">Sita Syal</a> join us this quarter. I can say with confidence that they are all terrific speakers. Their talks are included in the schedule below. 
-</p>
+
 
 <p align="left">
 <table class="center">
