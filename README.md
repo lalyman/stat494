@@ -206,7 +206,7 @@ The Report is meant more for you to have a personal record of what you learned a
         <tr>
             <td rowspan=2>1</td>
             <td>1/23</td>
-            <td>Tue</td>
+            <td>Mon</td>
             <td> Introduction and course logistics; overview of the 3 pillars of UQ: (1) sampling, (2) quadrature + collocation, and (3) spectral methods; aleatory vs epistemic uncertainty; validation vs verification; elements of probability theory (time permitting)</td>
             <td> <ul>
                  <li> Hurricane path prediction</li>
@@ -220,7 +220,7 @@ The Report is meant more for you to have a personal record of what you learned a
                  <ul>
             </td>
             <td> <ul>
-            <li> <b>Sign up</b> for a 15 min. <a href="https://forms.gle/AqxVjJuTkmsP9tXB9">one-on-one</a> with Laura. I'm excited to meet you! </li>
+            <li> <b>Sign up</b> for a 15 min. one-on-one</a> with Laura by sending an email to <a href="mailto:llyman@macalester.edu">llyman@macalester.edu </a></li>
                  </ul>
           </td>
         </tr>
