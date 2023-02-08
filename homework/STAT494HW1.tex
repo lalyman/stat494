@@ -289,7 +289,7 @@ If you prefer, Algorithm \ref{ns-update} could of course be modified to update a
  \end{itemize}
 \tcp{You're worried about what would happen if the car in front of you suddenly stopped. If you'll crash into the car in front within one time step (i.e. if $v \ge d$), then slow down by 1 unit. Otherwise, continue at your current speed}
  \begin{itemize}
- \item \textbf{set} $v \gets \min(d-1, v_{\text{max}})$ \hfill \textcolor{blue}{(2)}
+ \item \textbf{set} $v \gets \min(d-1, v)$ \hfill \textcolor{blue}{(2)}
  \end{itemize}
  \tcp{This car is a metal death trap! With probability $p$, slow down by 1 unit (if you're not already stopped)}
   \begin{itemize}
