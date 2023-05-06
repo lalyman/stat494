@@ -157,7 +157,7 @@ For the Peer Review, you must:
     
 ### Final Presentation
 <p align=justify>
-The final days of the class will be reserved for student Final Presentations. These will (ideally) be 15 minute talks, though depending on enrollment we may need to adjust this amount of time. The purpose of presentations is to:
+The final days of the class will be reserved for student Final Presentations. These will (ideally) be 5 - 15 minute talks, though depending on enrollment we may need to adjust this amount of time. The purpose of presentations is to:
 </p>
 
    * practice communication skills,
@@ -165,9 +165,6 @@ The final days of the class will be reserved for student Final Presentations. Th
    * reflect on if/how the project addressed your original learning goals.
 
 
-<p align=justify>
-You can sign-up for your final presentation slot <a href="https://forms.gle/VmdgL7k386vNg6in8">here</a>.
-</p>
 
 ### Report<span id="rep"></span>
 The final Report will be due during finals period. For the Report, you must:
