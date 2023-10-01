@@ -5,8 +5,8 @@
 * Location: OLRI 170
 * Course information
     * (So meta) Github repository: [github.com/lalyman/stat494/](https://github.com/lalyman/stat494/)
-    * The (currently oh-so-blank) [Moodle](https://moodle.macalester.edu/course/view.php?id=1438) site is maintained for grading, discussions, HW submissions, and class announcements
-    * HW assignments, details for the final project, and course notes will be posted here.
+    * The [Moodle](https://moodle.macalester.edu/course/view.php?id=1438) site is maintained for grading, discussions, HW submissions, and class announcements
+    * HW assignments will be posted on **Moodle**.
 
 With high probability, this `README.md` file represents the most updated version of the lecture schedule. **Last updated:** 23 January 2023.
 
@@ -14,7 +14,7 @@ With high probability, this `README.md` file represents the most updated version
 
 * Primary Instructor: Laura Lyman (pronouns: she/her/hers)
 * Email: `llyman@macalester.edu`
-* **Office Hours**: TBD in OLRI 224
+* **Office Hours**: M/W/F, 5 - 7 PM, OLRI 224
 
 ## Introduction
 
@@ -32,7 +32,7 @@ As an instructor, my hope is to be accessible and non-intimidating. Have you eve
 ### What if I'm Nervous About Asking A Question? <span id="dumb-q"></span> 
 
 <p align=justify>
-Please ask as many "dumb" questions as possible. I am serious. As an teacher, I am not here to judge you in the classroom; my goal is simply for you to learn as much as possible. When I hear a question that indicates a lack of understanding, I hear: 
+Please ask as many "silly" questions as possible. I am serious. As an teacher, I am not here to judge you in the classroom; my goal is simply for you to learn as much as possible. When I hear a question that indicates a lack of understanding, I hear: 
 </p>
 
 * someone brave enough to be transparent, and
@@ -116,7 +116,7 @@ The components of the final project are discussed in the following sections.
 ## Participation <span id="participation"></span> 
 
 <p align=justify>
-Paticipation is a combination of attendance and asking questions. To fulfill this track, you are responsible for <b>asking at least one question per week</b> about the material. It is <b>best if you ask your question during class</b> -- as you will see, I try very hard to make the learning environment feel as safe and relaxed as possible. (See <a href='#dumb-q'>What if I'm Nervous About Asking A Question?</a>). However, if you are shy, miss the lectures, forget, etc. you can fulfill this track by <b>emailing me your weekly question.</b> The only restriction is that a question should be one such that you learn something about the class <i>material</i> (not class logistics) from the answer; it can be as specific as, "What happened during this step on the board?" or as broad as, "Why do people care about concept X?"
+Paticipation is a combination of attendance and asking questions. To fulfill this track, you are responsible for <b>asking at least one question per week</b> about the material. It is <b>best if you ask your question during class</b> &mdash; as you will see, I try very hard to make the learning environment feel as safe and relaxed as possible. (See <a href='#dumb-q'>What if I'm Nervous About Asking A Question?</a>). However, if you are shy, miss the lectures, forget, etc. you can fulfill this track by <b>emailing me your weekly question.</b> The only restriction is that a question should be one such that you learn something about the class <i>material</i> (not class logistics) from the answer; it can be as specific as, "What happened during this step on the board?" or as broad as, "Why do people care about concept X?"
 </p>
 
 
@@ -157,7 +157,7 @@ For the Peer Review, you must:
     
 ### Final Presentation
 <p align=justify>
-The final days of the class will be reserved for student Final Presentations. These will (ideally) be 15 minute talks, though depending on enrollment we may need to adjust this amount of time. The purpose of presentations is to:
+The final days of the class will be reserved for student Final Presentations. These will (ideally) be 5 - 15 minute talks, though depending on enrollment we may need to adjust this amount of time. The purpose of presentations is to:
 </p>
 
    * practice communication skills,
@@ -165,9 +165,6 @@ The final days of the class will be reserved for student Final Presentations. Th
    * reflect on if/how the project addressed your original learning goals.
 
 
-<p align=justify>
-You can sign-up for your final presentation slot <a href="https://forms.gle/VmdgL7k386vNg6in8">here</a>.
-</p>
 
 ### Report<span id="rep"></span>
 The final Report will be due during finals period. For the Report, you must:
@@ -180,54 +177,6 @@ The final Report will be due during finals period. For the Report, you must:
 <p align="justify">
 The Report is meant more for you to have a personal record of what you learned and did. It by no means has to be a many-paged scholarly tome (unless you want it to be). We will discuss this more in class on 10/19. 
 </p>
-
-## Lecture Schedule
-
-<p align="justify">
-<b>With nonzero probability</b>, the following lecture schedule will be used. The usual "elasticity clause" applies here, as certain topics might take more or less time to cover than originally anticipated. 
-</p>
-
-
-
-<p align="left">
-<table class="center">
-    <thead>
-        <tr>
-            <th>Week</th>
-            <th>Date</th>
-            <th>Day of Week</th>
-            <th>Topics</th>
-            <th>Key <br> Examples </th>
-            <th>Relevant <br> Reading </th>
-            <th>Deadlines & Logistics</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=2>1</td>
-            <td>1/23</td>
-            <td>Mon</td>
-            <td> Introduction and course logistics; overview of the 3 pillars of UQ: (1) sampling, (2) quadrature + collocation, and (3) spectral methods; aleatory vs epistemic uncertainty; validation vs verification; elements of probability theory (time permitting)</td>
-            <td> <ul>
-                 <li> Hurricane path prediction</li>
-                 <li> Subsurface geology (water contamination; oil reservoir extraction) </li>
-                 <li> Proton therapy for radiation treatment (time permitting)  </li>
-                 </ul>  
-            </td>
-            <td> <ul>
-                 <li> Chapters 1-2 of <a href="#smith-book">UQTIA</a> </li>
-                 <li> <a href="https://github.com/lalyman/cme-270/blob/main/lecture-notes/lecture1_sept21/CME270Day1Slides.pdf">Lecture 1 notes</a> </li>
-                 <ul>
-            </td>
-            <td> <ul>
-            <li> <b>Sign up</b> for a 15 min. one-on-one</a> with Laura by sending an email to <a href="mailto:llyman@macalester.edu">llyman@macalester.edu </a></li>
-                 </ul>
-          </td>
-        </tr>
-    </tbody>
-</table>
-</p>
-
 
 ## References
 
